@@ -1,0 +1,7 @@
+mongo:
+  url: "mongodb+srv://root:Hu13541863172..@ms-note.gjaiqag.mongodb.net/?retryWrites=true&w=majority"
+jwt:
+  secret: "asdfasdfjlkjad"
+# redis:
+#   - name: "common"
+#     url: "redis://:@localhost:3333/1"
